@@ -1,7 +1,6 @@
 /*
 
-Name: Taylor Thompson      Net ID: tgt88
-Course: CSE 4714
+Name: Taylor Thompson
 Lab 02 - Parsing
 Purpose of file: Contains the files needed to create a parser for sentences
 
