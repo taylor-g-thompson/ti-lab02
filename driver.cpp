@@ -1,7 +1,6 @@
 //*****************************************************************************
 // purpose: Driver for Lab 2
-// version: Spring 2022
-//  author: Joe Crumpton / Ed Swan
+// version: Spring 2023
 //*****************************************************************************
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
