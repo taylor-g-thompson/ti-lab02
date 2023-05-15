@@ -1,6 +1,5 @@
 ###############################################################################
 # purpose: makefile for Lab 2
-# author:  Joe Crumpton
 #
 # 'make'        build executable file
 # 'make clean'  removes all intermediate (lex.yy.c and *.o) and executable files
