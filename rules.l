@@ -1,7 +1,6 @@
 /******************************************************************* 
 purpose: CSE 4714 / 6714 flex rules file for Lab 2
-version: Spring 2022
-author: Joe Crumpton / Ed Swan
+version: Spring 2023
  *******************************************************************/
 %option yylineno
 %option noyywrap
